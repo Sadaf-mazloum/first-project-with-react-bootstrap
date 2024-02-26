@@ -1,0 +1,12 @@
+.order-lg-2 {
+    order: 2!important;}
+    
+    
+.order-1 {
+     order: 1!important;}
+
+.background{
+    background-image: url('../../../../public/img/Screenshot\ 2023-09-26\ at\ 02-00-42\ Free\ Photo\ Laptop\ glasses\ and\ notebok\ on\ the\ desktop\ on\ a\ blurred\ background.png');
+    background-size: cover;
+    height: 350px;
+}

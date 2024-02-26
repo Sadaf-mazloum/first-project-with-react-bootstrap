@@ -1,0 +1,52 @@
+.size-{
+    width: 50px;
+    /* background-color: green; */
+    fill: yellow;
+    
+}
+
+.cardhover:hover{
+    border-radius: 0 0 35px 35px;    
+    border-bottom: 5px solid green !important;
+    color:green;
+} 
+
+a:link {
+    text-decoration: none;
+    /* color: black; */
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: green;
+  }
+  
+  a:active {
+    text-decoration: none;
+    /* color: black; */
+  }
+
+  .ap:link {
+    text-decoration: none;
+    /* color: black; */
+  }
+  
+  .ap:visited {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .ap:hover {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .ap:active {
+    text-decoration: none;
+    /* color: black; */
+  }

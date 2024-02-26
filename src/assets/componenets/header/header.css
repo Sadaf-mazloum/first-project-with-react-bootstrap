@@ -1,0 +1,27 @@
+/* .set_space{
+    margin-top: 210px;
+} */
+.background-img{
+    background-image: url('../../../../public/img/hero-bg.jpg');
+    background-size: cover;
+    height:1000px;
+   
+}
+
+.border_color{
+    border-bottom: solid 1px;
+    border-color: rgba(255, 255, 255, 0.116);
+}
+.set_play{
+    width: 80px;
+    height: 80px;
+
+}
+.set_play2{
+   background: rgba(33, 150, 76, 0.342) !important;
+   border-color: rgba(33, 150, 76, 0) !important;
+   
+}
+.set-mt{
+       padding-top: 220px;
+}

@@ -1,0 +1,9 @@
+.background-img1{
+    background-image: url('../../../../public/img/high-angle-shot-beautiful-cityscape-sunset-new-york-city-usa.jpg');
+    background-size: cover;
+    /* height:350px; */
+   
+}
+.margin-col{
+    margin-top: 115px;
+}
